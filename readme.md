@@ -13,7 +13,7 @@ For this demo there're some things should be done before makeing the steps of th
 You should first create a resource for this bot using Azure Portal. The full maunal is [here](https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0 "Create Bot resource using Azure portal").
 
 # Step 2. Download source code on your machine
-After you've created a Bot resource in Azure, you can download a source code from the portal ![alt text]("https://github.com/ilia2108/BotFrameworkDemo/blob/master/Photos/download.png").
+After you've created a Bot resource in Azure, you can download a source code from the portal ![alt text](https://github.com/ilia2108/BotFrameworkDemo/blob/master/Photos/download.png "Portal").
 
 # Spep 3. Open project using Visual Studio
 Then you should unzip and open the folder of your project. By clicking on .sln file Visual Studio would prepare everything for you.
