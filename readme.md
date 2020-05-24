@@ -26,7 +26,7 @@ Afer you've opened Visual Studio you can easily run your project by clicking but
 * clean and build solution.
 
 # Step 5. Test using Bot Framework emulator
-In the Azure portal (see [step 2](https://github.com/ilia2108/BotFrameworkDemo/master/readme.md#download-source-code-on-your-machine)) you can also install Bot Framework emulator. After installation you need to test your bot. You can find innstructions [here](https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0#start-the-emulator-and-connect-to-your-bot).
+In the Azure portal (see [step 2](https://github.com/ilia2108/BotFrameworkDemo/blob/master/readme.md#step-2-download-source-code-on-your-machine)) you can also install Bot Framework emulator. After installation you need to test your bot. You can find innstructions [here](https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0#start-the-emulator-and-connect-to-your-bot).
 
 # Step 6. Deploy your bot to Azure
 After your bot is tested we can deploy it to Azure. The full insctructions are [here](https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0#start-the-emulator-and-connect-to-your-bot).
