@@ -33,4 +33,4 @@ After your bot is tested we can deploy it to Azure. The full insctructions are [
 
 
 # Conclusion
-To sum it all up, this demo shows the basic chat-bot with serverless backend in Azure Logic App that can be deployed to Azure. In case of any issues, suggestions or questions don't hesitate to email ilia.ryabukhin@studentpartner.com or write me in Telegram (@ilia_2108).
+To sum it all up, this demo shows the basic chat-bot that can be deployed to Azure. In case of any issues, suggestions or questions don't hesitate to email ilia.ryabukhin@studentpartner.com or write me in Telegram (@ilia_2108).
